@@ -1,0 +1,193 @@
+**AivoDrive - Smart Fleet Management System - MVP Requirements Document**
+
+*AivoDrive combines the power of Artificial Intelligence with fleet operations to optimize vehicle usage, route planning, trip monitoring, and driver management in a smart, automated way.*
+
+---
+
+### 📊 Project Overview
+
+Build a web-based MVP for a Smart Fleet Management System using **React.js** for the frontend, **Node.js (Express.js)** for the backend, and **MongoDB** for the database. The system will help fleet managers monitor vehicles, assign drivers, track trips, and manage maintenance.
+
+### 🔧 Tech Stack
+
+* **Frontend:** React.js with Hooks & Context API, Tailwind CSS, Material 3 components
+* **Backend:** Node.js + Express.js
+* **Database:** MongoDB (Mongoose ODM)
+* **Authentication:** JWT + bcrypt
+* **Map Integration:** Leaflet.js with React-Leaflet for location picking and route display
+
+#### 📦 Frontend Libraries
+
+* `@emotion/react`, `@emotion/styled` – Styling utilities
+* `@mui/material`, `@mui/icons-material`, `@mui/lab`, `@mui/x-data-grid`, `@mui/x-date-pickers` – Material UI components
+* `react-leaflet`, `leaflet` – Map rendering and location selection
+* `@mapbox/polyline` – Encode/decode route lines
+* `react-toastify` – Toast notifications
+* `react-router-dom` – Routing
+* `formik`, `yup` – Forms and validation
+* `axios` – HTTP requests
+* `chart.js`, `react-chartjs-2`, `recharts` – Graphs and analytics
+* `jwt-decode` – Token decoding for role-based UI
+* `date-fns` – Date formatting
+
+---
+
+### ✨ UI/UX Design
+
+* **Theme:** Dark mode 
+* **Primary Colors:**
+
+  * Background: #121212
+  * Surface: #1E1E1E
+  * Primary: #4DB6AC (Teal)
+  * Accent: #FFB74D (Amber)
+  * Text: #E0E0E0 (Light Gray)
+* **Font Family:**
+
+  * Headings: `Poppins`
+  * Body: `Inter` or `Roboto`
+* **UI Library:** Tailwind CSS + Material 3 (minimalist, accessible)
+* **Animations:** Framer Motion or CSS transitions for component entrance, hover, button effects, modals, and page transitions.
+
+---
+
+### 📄 Core Modules & CRUD Operations
+
+#### 1. **Authentication Module**
+
+* **Login Only (All Roles)**
+
+  * POST `/api/auth/login`
+  * GET `/api/auth/profile`
+* **Middleware**
+
+  * JWT validation
+  * Role-based access control (Admin, Dispatcher, Driver)
+
+#### 2. **Vehicle Management** (Admin only)
+
+* **Vehicle Model:** `make`, `model`, `year`, `licensePlate`, `status`, `lastServiceDate`, `currentDriver`
+* **Routes:**
+
+  * GET `/api/vehicles`
+  * POST `/api/vehicles`
+  * GET `/api/vehicles/:id`
+  * PUT `/api/vehicles/:id`
+  * DELETE `/api/vehicles/:id`
+
+#### 3. **Driver Management** (Admin only)
+
+* **Driver Model:** `name`, `licenseNumber`, `phone`, `assignedVehicle`, `status`, `role`
+* **Routes:**
+
+  * GET `/api/drivers`
+  * POST `/api/drivers`
+  * GET `/api/drivers/:id`
+  * PUT `/api/drivers/:id`
+  * DELETE `/api/drivers/:id`
+
+#### 4. **Trip Management**
+
+* **Trip Model:** `vehicleId`, `driverId`, `origin`, `destination`, `startTime`, `endTime`, `distance`, `status`
+
+* **Routes:**
+
+  * GET `/api/trips` - Admin, Dispatcher can view all; Driver sees own trips
+  * POST `/api/trips` - Admin and Dispatcher only
+  * GET `/api/trips/:id`
+  * PUT `/api/trips/:id` - Driver can update trip status; Admin/Dispatcher can update full details
+  * DELETE `/api/trips/:id` - Admin only
+
+* **Map Functionality:**
+
+  * Dispatcher/Admin selects origin and destination by clicking on Leaflet map
+  * Saved coordinates shown in Trip Details view with polyline route
+
+#### 5. **Maintenance Scheduler** (Admin only)
+
+* **Maintenance Model:** `vehicleId`, `dateScheduled`, `dateCompleted`, `description`, `status`
+* **Routes:**
+
+  * GET `/api/maintenance`
+  * POST `/api/maintenance`
+  * GET `/api/maintenance/:id`
+  * PUT `/api/maintenance/:id`
+  * DELETE `/api/maintenance/:id`
+
+#### 6. **Reports & Alerts** (Minimal in MVP)
+
+* **GET `/api/reports/daily-summary`** (Admin)
+* **GET `/api/reports/maintenance-due`** (Admin)
+* **GET `/api/alerts/`** (Admin)
+
+---
+
+### ✅ Best Practices
+
+* **React:**
+
+  * Use functional components and hooks
+  * Centralized state with Context API or Redux Toolkit
+  * Lazy loading for routes
+* **Node.js/Express:**
+
+  * Use `.env` for environment configuration
+  * Follow MVC structure
+  * Validate input using `Joi` or `express-validator`
+* **MongoDB:**
+
+  * Normalize critical relations, denormalize for quick access (trips)
+  * Index vehicleId, driverId fields for faster querying
+* **Security:**
+
+  * Sanitize user input (e.g., `express-mongo-sanitize`)
+  * Hash passwords using `bcrypt`
+  * Use HTTPS in deployment
+
+---
+
+### 🔎 Pages (Frontend)
+
+* `/login` (Login page for all roles)
+* `/dashboard`
+
+  * **Admin View:**
+    * Total vehicles, drivers, trips
+    * Active vs idle vehicles
+    * Trips in progress vs completed
+    * Maintenance alerts
+    * Graphs: Weekly trip count, fuel cost estimate, maintenance schedule timeline
+ 
+  * **Dispatcher View:**
+    * Trip summary, vehicle assignment status, ongoing trips
+
+  * **Driver View:**
+    * List of assigned trips
+    * Status update for each trip
+    * Trip history timeline
+
+* `/vehicles` (Admin only)
+* `/drivers` (Admin only)
+* `/trips`
+
+  * Admin/Dispatcher can create trip by addint trip details and origin/destination location on Leaflet map
+  * All users can view trip details and route map with polyline (origin to destination)
+* `/maintenance` (Admin only)
+* `/reports` (Admin only)
+* `/settings` (User profile preferences)
+
+---
+
+### 🔺 Future Expansion (Beyond MVP) (You can add these features label but don't add them to the MVP - Show Toast: Feature Coming Soon)
+
+* Real-time GPS vehicle tracking & geofencing
+* AI-based Smart Route Optimization
+* Driver behavior monitoring (harsh braking, speeding)
+* Push/email/SMS notifications
+* Fuel card integration & consumption tracking
+* Tire pressure and engine diagnostics via OBD integration
+* Vehicle insurance document manager
+* Advanced reporting and Excel/CSV export
+* Mobile app companion (React Native or Flutter)
+* Multi-company or multi-depot management
+* Chat system for drivers and dispatchers

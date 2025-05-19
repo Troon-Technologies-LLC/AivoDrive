@@ -1,0 +1,468 @@
+2025-05-18 12:28:05 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 12:28:05 [31merror[39m: Error seeding users: User.countDocuments is not a function
+2025-05-18 12:28:05 [31merror[39m: Error seeding database: User.countDocuments is not a function
+2025-05-18 12:28:23 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 12:28:23 [31merror[39m: Error seeding users: User.countDocuments is not a function
+2025-05-18 12:28:23 [31merror[39m: Error seeding database: User.countDocuments is not a function
+2025-05-18 12:28:39 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 12:28:39 [31merror[39m: Error seeding users: User.countDocuments is not a function
+2025-05-18 12:28:39 [31merror[39m: Error seeding database: User.countDocuments is not a function
+2025-05-18 12:28:49 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 12:28:49 [31merror[39m: Error seeding users: User.countDocuments is not a function
+2025-05-18 12:28:49 [31merror[39m: Error seeding database: User.countDocuments is not a function
+2025-05-18 12:28:59 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 12:28:59 [31merror[39m: Error seeding users: User.countDocuments is not a function
+2025-05-18 12:28:59 [31merror[39m: Error seeding database: User.countDocuments is not a function
+2025-05-18 12:29:07 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 12:29:07 [31merror[39m: Error seeding users: User.countDocuments is not a function
+2025-05-18 12:29:07 [31merror[39m: Error seeding database: User.countDocuments is not a function
+2025-05-18 12:29:16 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 12:29:16 [31merror[39m: Error seeding users: User.countDocuments is not a function
+2025-05-18 12:29:16 [31merror[39m: Error seeding database: User.countDocuments is not a function
+2025-05-18 12:29:24 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 12:29:24 [31merror[39m: Error seeding users: User.countDocuments is not a function
+2025-05-18 12:29:24 [31merror[39m: Error seeding database: User.countDocuments is not a function
+2025-05-18 12:29:40 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 12:29:40 [31merror[39m: Error seeding users: User.countDocuments is not a function
+2025-05-18 12:29:40 [31merror[39m: Error seeding database: User.countDocuments is not a function
+2025-05-18 12:29:55 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 12:29:55 [31merror[39m: Error seeding users: User.countDocuments is not a function
+2025-05-18 12:29:55 [31merror[39m: Error seeding database: User.countDocuments is not a function
+2025-05-18 12:30:11 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 12:30:11 [31merror[39m: Error seeding users: User.countDocuments is not a function
+2025-05-18 12:30:11 [31merror[39m: Error seeding database: User.countDocuments is not a function
+2025-05-18 12:30:25 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 12:30:25 [31merror[39m: Error seeding users: User.countDocuments is not a function
+2025-05-18 12:30:25 [31merror[39m: Error seeding database: User.countDocuments is not a function
+2025-05-18 12:30:41 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 12:30:41 [31merror[39m: Error seeding users: User.countDocuments is not a function
+2025-05-18 12:30:41 [31merror[39m: Error seeding database: User.countDocuments is not a function
+2025-05-18 12:36:24 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 12:36:24 [31merror[39m: Error seeding users: User.countDocuments is not a function
+2025-05-18 12:36:24 [31merror[39m: Error seeding database: User.countDocuments is not a function
+2025-05-18 12:38:06 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 12:38:06 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 12:38:06 [31merror[39m: Error seeding drivers: Driver.countDocuments is not a function
+2025-05-18 12:38:06 [31merror[39m: Error seeding database: Driver.countDocuments is not a function
+2025-05-18 12:52:17 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 12:52:17 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 12:52:17 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 12:52:17 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 12:52:17 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 12:52:17 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 12:52:17 [32minfo[39m: Seeded 8 fuel records successfully
+2025-05-18 12:52:17 [32minfo[39m: Database seeding completed successfully
+2025-05-18 12:52:17 [32minfo[39m: Disconnected from MongoDB after seeding
+2025-05-18 12:59:44 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 12:59:46 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 12:59:46 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 12:59:46 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 12:59:46 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 12:59:46 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 12:59:46 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 12:59:46 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 12:59:46 [32minfo[39m: Database seeding completed successfully
+2025-05-18 12:59:46 [32minfo[39m: Disconnected from MongoDB after seeding
+2025-05-18 13:02:45 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:02:45 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:02:45 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:02:45 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:02:45 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:02:45 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:02:45 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:02:45 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:02:45 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:02:45 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:02:45 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:02:45 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:02:45 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:02:45 [32minfo[39m: Database seeding completed successfully
+2025-05-18 13:02:45 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:02:45 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:03:04 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:03:04 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:03:04 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:03:04 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:03:04 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:03:04 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:03:04 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:03:04 [32minfo[39m: Database seeding completed successfully
+2025-05-18 13:09:21 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:09:21 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:09:21 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:09:21 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:09:21 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:09:21 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:09:21 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:17 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:17 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:17 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:17 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:17 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:17 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:17 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:17 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:17 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:17 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:17 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:17 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:17 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:24:40 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:40 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:40 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:40 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:40 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:40 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:40 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:40 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:40 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:40 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:40 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:40 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:24:40 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:24:40 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:26:20 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 13:26:20 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 13:26:20 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 13:26:20 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 13:26:20 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 13:26:20 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 13:26:20 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 13:26:20 [32minfo[39m: Database seeding completed successfully
+2025-05-18 14:14:26 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 14:14:26 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 14:14:26 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 14:14:26 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 14:14:26 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 14:14:26 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 14:14:26 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 14:16:16 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 14:16:16 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 14:16:16 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 14:16:16 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 14:16:16 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 14:16:16 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 14:16:16 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 14:16:16 [32minfo[39m: Database seeding completed successfully
+2025-05-18 21:37:42 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 21:37:42 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 21:37:42 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 21:37:42 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 21:37:42 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 21:37:42 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 21:37:42 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 21:37:42 [32minfo[39m: Database seeding completed successfully
+2025-05-18 21:40:47 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 21:40:47 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 21:40:47 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 21:40:47 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 21:40:47 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 21:40:47 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 21:40:47 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 21:40:47 [32minfo[39m: Database seeding completed successfully
+2025-05-18 21:41:01 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 21:41:01 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 21:41:01 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 21:41:01 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 21:41:01 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 21:41:01 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 21:41:01 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 21:41:01 [32minfo[39m: Database seeding completed successfully
+2025-05-18 21:41:20 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 21:41:20 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 21:41:20 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 21:41:20 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 21:41:20 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 21:41:20 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 21:41:20 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 21:41:20 [32minfo[39m: Database seeding completed successfully
+2025-05-18 21:41:35 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 21:41:35 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 21:41:35 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 21:41:35 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 21:41:35 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 21:41:35 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 21:41:35 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 21:41:35 [32minfo[39m: Database seeding completed successfully
+2025-05-18 21:41:44 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 21:41:44 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 21:41:44 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 21:41:44 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 21:41:44 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 21:41:44 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 21:41:44 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 21:41:44 [32minfo[39m: Database seeding completed successfully
+2025-05-18 21:41:57 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 21:41:57 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 21:41:57 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 21:41:57 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 21:41:57 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 21:41:57 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 21:41:57 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 21:41:57 [32minfo[39m: Database seeding completed successfully
+2025-05-18 21:42:05 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 21:42:05 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 21:42:05 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 21:42:05 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 21:42:05 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 21:42:05 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 21:42:05 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 21:42:05 [32minfo[39m: Database seeding completed successfully
+2025-05-18 21:42:24 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 21:42:24 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 21:42:24 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 21:42:24 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 21:42:24 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 21:42:24 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 21:42:24 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 21:42:24 [32minfo[39m: Database seeding completed successfully
+2025-05-18 21:42:38 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 21:42:38 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 21:42:38 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 21:42:38 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 21:42:38 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 21:42:38 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 21:42:38 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 21:42:38 [32minfo[39m: Database seeding completed successfully
+2025-05-18 21:42:53 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 21:42:53 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 21:42:53 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 21:42:53 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 21:42:53 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 21:42:53 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 21:42:53 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 21:42:53 [32minfo[39m: Database seeding completed successfully
+2025-05-18 21:43:58 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 21:43:58 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 21:44:00 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 21:44:00 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 21:44:00 [32minfo[39m: Skipping driver seeding. 5 drivers already exist.
+2025-05-18 21:44:00 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-18 21:44:00 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 21:44:00 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 21:44:00 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 21:44:00 [32minfo[39m: Database seeding completed successfully
+2025-05-18 21:59:41 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-18 21:59:41 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-18 21:59:41 [32minfo[39m: Skipping driver seeding. 3 drivers already exist.
+2025-05-18 21:59:41 [32minfo[39m: Skipping vehicle seeding. 9 vehicles already exist.
+2025-05-18 21:59:41 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-18 21:59:41 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-18 21:59:41 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-18 21:59:41 [32minfo[39m: Database seeding completed successfully
+2025-05-19 13:44:00 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-19 13:44:00 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-19 13:44:03 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-19 13:44:03 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-19 13:44:03 [32minfo[39m: Skipping driver seeding. 3 drivers already exist.
+2025-05-19 13:44:03 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-19 13:44:03 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-19 13:44:03 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-19 13:44:03 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-19 13:44:03 [32minfo[39m: Database seeding completed successfully
+2025-05-19 14:10:52 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-19 14:10:52 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-19 14:50:08 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-19 14:50:08 [32minfo[39m: Skipping user seeding. 7 users already exist.
+2025-05-19 14:50:08 [32minfo[39m: Skipping driver seeding. 3 drivers already exist.
+2025-05-19 14:50:08 [32minfo[39m: Skipping vehicle seeding. 8 vehicles already exist.
+2025-05-19 14:50:08 [32minfo[39m: Skipping trip seeding. 25 trips already exist.
+2025-05-19 14:50:08 [32minfo[39m: Skipping maintenance seeding. 16 maintenance records already exist.
+2025-05-19 14:50:08 [32minfo[39m: Skipping fuel record seeding. 8 fuel records already exist.
+2025-05-19 14:50:08 [32minfo[39m: Database seeding completed successfully
+2025-05-19 16:16:49 [32minfo[39m: Connected to MongoDB for seeding
+2025-05-19 16:16:49 [32minfo[39m: Skipping user seeding. 7 users already exist.
